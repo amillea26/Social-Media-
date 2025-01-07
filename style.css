@@ -65,6 +65,7 @@ img {
   border-style:ridge;
   border-radius: 10px;
   float:right;
+  justify-content:center;
 }
 
 .titleimg { 
